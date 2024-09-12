@@ -1,0 +1,14 @@
+Common state verbs include:
+- Believe
+- Belong
+- Hate
+- Know
+- Like
+- Love
+- Mean
+- Mind
+- Need
+- Prefer
+- Remember
+- Understand
+- Want
