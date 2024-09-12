@@ -12,9 +12,23 @@ Zdrojmi krytia rozumieme skutočnosť, z akých zdrojov získala ÚJ finančné 
 
 ***Vlastné imanie teda pozostáva z 5 základných častí:***
 - Základné imanie
+	- Trvalý vlastný zdroj krytia majetku, ktorý do podnikania vložil vlastník pri vzniku firmy alebo neskôr pri jeho zvyšovaní
+
 - Kapitálové fondy
+	- Tvoria sa z externých zdrojov, darovaním, čím sa stávajú vlastných zdrojom
+
 - Fondy tvorené zo zisku
+	- Vytvárajú sa z dosiahnutého zisku podniku
+
 - Výsledok hospodárenia minulých rokov
-	- NZMR
-	- NSMR
+	- NZMR ( Nerozdeleného zisku )
+	- NSMR ( Neuhradenej strate )
+
 - Výsledok hospodárenia bežného účtovného obdobia
+	- Zisk alebo strata
+	- V prípade zisku sa ten rozdeľuje podľa rozhodnutia ÚJ
+
+***Cudzie zdroje krytia majetku***
+- Rezervy
+- Záväzky
+- Úvery

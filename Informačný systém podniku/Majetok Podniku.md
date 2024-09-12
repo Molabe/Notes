@@ -93,5 +93,3 @@ Majetok, ktorý používa ÚJ kratšie ako 1 rok.
 	- Peniaze v pokl.
 
 
-[[Kapitálové účty a dlhodobé záväzky]]
-
