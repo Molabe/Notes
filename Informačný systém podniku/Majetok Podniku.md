@@ -53,7 +53,7 @@ Majetok, ktorý používa ÚJ kratšie ako 1 rok.
 - ==**KPO**
 	- Krátkodobé pohľadávky | vyplývajú z obchodných vzťahov:
 		- **Pohľadávky voči odberateľom za predané a doteraz nezaplatené výrobky**
-		- **Pohľadávky voči zamestnancom za spôsobenú školu**
+		- **Pohľadávky voči zamestnancom za spôsobenú škodu**
 		- **Voči spoločníkom**
 - ==**KFM**
 	- Krátkodobý finančný majetok

@@ -30,5 +30,38 @@ Zdrojmi krytia rozumieme skutočnosť, z akých zdrojov získala ÚJ finančné 
 
 ***Cudzie zdroje krytia majetku***
 - Rezervy
+	- Sú cudzím zdrojom krytia majetku, ide o záväzky ÚJ ich uhradiť
+
 - Záväzky
+	- Vznikajú predovšetkým z obchodných vzťahov voči dodávateľom, daňovému úradu, zamestnancom a pod.
+
 - Úvery
+	- Ide o finančné pôžičky, ktoré nám poskytuje KB za určitých vopred dohodnutých zmlúvnych podmienok
+	- Z hľadiska splatnosti:
+		- **Krátkodobé**
+		- **Dlhodobé**
+
+Tovar na sklade - Zásoby | Základné imanie
+Ťažné zviera - DHM | Základné imanie
+Zbierka z drahých kovov - DHM | Kapítalové fondy
+Umelecká socha - DNM
+Cenné papiere - DFM
+Tovar na sklade a v predajniach - Zásoby
+Výrobné zariadenie - DHM | Základné imanie
+Nákladný automobil - DHM | Základné imanie
+Starvné lístky - KFM
+Lak na auto - Zásoby | Základné imanie
+Kancelária - DHM | Základné imanie
+Záhrada - DHM | Základné imanie
+Poštové známky - KFM
+Polotovary - Zásoby
+Výrobná hala - DHM | Základné imanie
+Scenár k muzikálu - DNM
+Text piesne - DNM
+Neuhradená strata MR - Vlastné | Výsledok hospodárenia minulých rokov
+Dar venovaný škole - Kapitálové fondy
+Povinné rezervy - Cudzie
+Odberatelia - DPO
+Zamestnanci - Záväzky
+Dodávatelia - KPO
+Krátkodobé bankové účty - KFM
