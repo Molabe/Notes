@@ -43,3 +43,4 @@
 		- **Zvieratá**
 			- Ako *zásoby vlastnej výroby sú prírastky chovov*
 			
+			

@@ -25,7 +25,9 @@ Je činnost zameraná na **zabezpečenie potrebných materiálových vstupov**
 		- ***výber materiálu***
 			- Podnik rozhoduje o tom, *aký materiál, v akej kvalite, v akom množstve, akým spôsobom, u koho a za akú cenu a za akých podmienok nakúpi*
 		- ***plánovanie spotreby materiálu***
-			- 
+			- Pri plánovaní musú podnik poznať:
+				- *Normu spotreby materiálu*
+				- *Plán výroby*
 		- ***plánovanie výšky zásob***
 		- ***zostavenie plánu nákupu***
 - *Nákupná činnosť*

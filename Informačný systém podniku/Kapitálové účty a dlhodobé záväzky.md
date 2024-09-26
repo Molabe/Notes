@@ -1,4 +1,4 @@
-Zdrojmi krytia rozumieme skutočnosť, z akých zdrojov získala ÚJ finančné prostriedky na svoju činnosť
+				Zdrojmi krytia rozumieme skutočnosť, z akých zdrojov získala ÚJ finančné prostriedky na svoju činnosť
 
 ***Podľa toho ich členíme na:***
 - Vlastné zdroje
