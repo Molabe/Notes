@@ -31,3 +31,16 @@ Je sada inštrukcií alebo programov, ktoré umožňujú počítaču vykonávať
 	- Umožňuje základné fungovanie počítača 
 - ***Aplikačný softvér***
 	- Programy, ktoré sú navrhnuté na riešenie špecifikcýh úloh
+
+##### Typy informačných systémov
+**1. Transakčné informačné systémy ( TPS )**
+- Zabezpečujú každodenné spracovanie dát v organizácií, ako napr. spracovanie objednávok, fakturáciu, platby, invertarizáciu
+- Ich hlavnou úlohou je rýchlo a presne zaznamenávať operácie
+
+**2. Systémy pre riadenie podniku ( MIS )**
+- Pomáhajú manažmentu získať informácie potrebné na plánovanie a riadenie.
+- Generujú pravidelné správy, ktoré sumarizujú finančné údaje, predajné údaje a ďalšie.
+
+**3. Systémy pre podporu rozhodovania ( DSS )**
+- Slúžia na analýzu dát a podporujú strategické rozhodovanie.
+- DSS často obsahuje analytické modely, ktoré umožňujú simulácie rôznych scenárov.
