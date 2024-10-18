@@ -39,3 +39,14 @@ Nákup kolekcií je finančne efektívnejšie a nákup jednot. titolov zase adre
 
 ##### Akvizícia založená na dôkazoch
 Približne v roku 2011 sa začínajú masívnejšie objavovať pojmy *"evidence-based acquisition*"*, *"demand-driven acqusition"* a *"patron-driven acquisition"*
+
+#### Marketingová stratégia
+Súvisí s pojmom marketingová filozofia, ktorú podnik príjme.
+Na základe prijatej filozofie a poznania reálnej situácie si stanoví podnik cieľ, napr. cieľom je dosiahnuť uričté postavenie na trhu.
+
+Marketingovú stratégiu musíme chápať ako súčasť celkovej stratégie podniku
+Marketingovú stratégiu chápeme c širšom zmysle slova a vtedy sa marketingová stratégia stotožňuje s pojmom celková stratégia podniku
+V užšom chápaní pod marketingovú stratégiu zahŕňame výrobnú stratégiu alebo odbytovú stratégiu
+
+Rozumie sa tým dlhodobá koncepcia činnosti podniku v oblasti marketingu s cieľom splniť dva základné ciele
+

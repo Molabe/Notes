@@ -125,5 +125,10 @@ Je činnost zameraná na **zabezpečenie potrebných materiálových vstupov**
 - *Evidencia a riadenie zásob*
 	- **Evidencia zásob** predstavuje *záznamy o stave a pohybe zásob*
 	- Stav a pohyb zásob sa zaznamenáva v dokladoch
-	- 
+	
+	
+	- **Riadenie zásob**
+		- Cieľom je:
+			- *Udržať zásoby v takej výške, aby sa zabezpečila plynulá výroba a aby zásoby viazali minimálne finančné prostriedky*
+			- *Udržať zásoby v takej výške, aby vznikali minimálne náklady na ich skladovanie*
 
